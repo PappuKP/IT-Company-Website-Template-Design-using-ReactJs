@@ -5,8 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Sample Look of the Website
 
 </br>
-![screenshot](https://user-images.githubusercontent.com/46879554/90321339-54c3d580-df66-11ea-9fd6-c1dc7410a97e.png)
-
+<img src="https://user-images.githubusercontent.com/46879554/90321339-54c3d580-df66-11ea-9fd6-c1dc7410a97e.png">
 </br>
 </br>roject was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
