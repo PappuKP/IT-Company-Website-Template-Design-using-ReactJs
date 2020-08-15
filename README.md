@@ -1,13 +1,11 @@
+## Sample Look of the Website
+
 This project is on Live Server with [Check Project Website](https://itpkcompany.netlify.app/).</br>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Sample Look of the Website
 
-</br>
-                                  <img src="https://user-images.githubusercontent.com/46879554/90321339-54c3d580-df66-11ea-9fd6-c1dc7410a97e.png" width="100" width="100" >
-</br>
-</br>Project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
