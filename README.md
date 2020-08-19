@@ -2,6 +2,8 @@
 
 This project is on Live Server with [Check Project Website](https://itpkcompany.netlify.app/).</br>
 
+![Screenshot (1140)](https://user-images.githubusercontent.com/46879554/90697571-5231ea80-e29c-11ea-8d6c-e3ecd538f79a.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
